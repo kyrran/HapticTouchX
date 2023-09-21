@@ -1,0 +1,68 @@
+﻿  DebugScene.cpp
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.h(102,30): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\DebugScene.cpp(12,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\DebugScene.cpp(74,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GenericScene.cpp
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.h(102,30): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(36,46): warning C4244: 'argument': conversion from 'double' to 'const time_t', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(36,26): warning C4244: 'initializing': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(38,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(38,40): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(44,31): warning C4244: '=': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(52,31): warning C4244: '=': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(66,42): warning C4244: 'argument': conversion from 'double' to 'const time_t', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(136,43): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(137,43): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(138,44): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(146,50): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(147,50): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(216,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(232,42): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(314,23): warning C4244: '=': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.cpp(315,27): warning C4244: '=': conversion from 'time_t' to 'double', possible loss of data
+  Scene1.cpp
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.h(102,30): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene1.cpp(18,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene1.cpp(104,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Scene2.cpp
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.h(102,30): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene2.cpp(15,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene2.cpp(137,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene2.cpp(138,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene2.cpp(139,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Scene3.cpp
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.h(102,30): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene3.cpp(14,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\Scene3.cpp(106,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SensorData.cpp
+  tilt-board2.cpp
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\GenericScene.h(102,30): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(28,26): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(125,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(126,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(127,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(128,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(299,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(300,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(301,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(302,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(408,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(409,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(439,46): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(448,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(456,37): warning C4244: 'argument': conversion from 'double' to 'const time_t', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(542,46): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(588,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Haptic\Desktop\HapticGamesTouchX-Windows2\HapticGamesTouchX-Windows\app\tiltboard-win\tiltboard-win\tilt-board2.cpp(616,46): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Generating Code...
+fuzzylite-static.lib(fuzzylite.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in DebugScene.obj
+fuzzylite-static.lib(fuzzylite.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in DebugScene.obj
+LINK : fatal error LNK1104: cannot open file 'python311_d.lib'
